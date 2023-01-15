@@ -1,3 +1,4 @@
+# ** THIS WEBSITE IS NO LONGER UP **
 # The FART Stack
 ### What is FART Stack?
 I recently got laid off from my job as a DevOps Engineer. If you're familiar with the industry, you know that Kubernetes is the "new" and current hotness. Lots of companies expect you to have experience with it and I don't. Right after I was laid off, I purchased a course on Udemy to teach myself Kubernetes. This project was started on Saturday July 16, 2022 and brought to its current state on Sunday July 17, 2022.
